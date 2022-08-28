@@ -1,0 +1,17 @@
+{
+  "name": "steam-game-price-parser",
+  "version": "1.0.0",
+  "description": "A simple script to get the price of a specific game in all countries supported by steam",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vladimir Sidorik",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "currency-converter-lt": "^1.3.1",
+    "https": "^1.0.0",
+    "https-proxy-agent": "^5.0.1"
+  }
+}
