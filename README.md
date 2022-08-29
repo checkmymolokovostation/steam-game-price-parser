@@ -25,7 +25,7 @@ package_id - ID of the product in the Steam store</br>
 currency_code - the currency code of your country (this code is required so that the received price, for example in Argentina, is converted into the currency of your country)</br>
 delay - delay between requests
 </br>
-This is where the countryCodes.json file comes in. This file is required to download those country codes for which you need to get information. The folder contains a file with all the codes of all countries that Steam supports for your convenience.
+This is where the countryCodes.json file comes in. This file is required to download those country codes for which you need to get information.</br>The folder contains a file with all the codes of all countries that Steam supports for your convenience.
 
 ## Developers
 
@@ -34,4 +34,4 @@ This is where the countryCodes.json file comes in. This file is required to down
 
 ## License
 
-Project Steam Game Price Parser ( PSGP ) is distributed under the MIT license.
+Project Steam Game Price Parser ( SGP ) is distributed under the MIT license.
